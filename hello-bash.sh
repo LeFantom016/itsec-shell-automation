@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hej från Bash
+echo "Hej från Bash – skriptet fungerar!"
