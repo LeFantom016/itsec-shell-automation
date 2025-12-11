@@ -8,3 +8,7 @@ echo "heeej"
 
 
 echo "va göruu"
+
+myname="Niko"
+
+echo "hej $myname"

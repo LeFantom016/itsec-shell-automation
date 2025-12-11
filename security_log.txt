@@ -1,0 +1,23 @@
+Thu, Dec 11, 2025 10:07:03 AM - VARNING: Filen 'basic-security.sh' saknas.
+Thu, Dec 11, 2025 10:08:08 AM - VARNING: Användaren 'whoami' saknas.
+Thu, Dec 11, 2025 10:08:08 AM - Kontroller slutförda.
+Thu, Dec 11, 2025 10:09:38 AM - VARNING: Filen '[A[B[D basic-security-check.sh' saknas.
+Thu, Dec 11, 2025 10:09:45 AM - VARNING: Användaren 'nikko.sh' saknas.
+Thu, Dec 11, 2025 10:09:45 AM - Kontroller slutförda.
+Thu, Dec 11, 2025 10:10:25 AM - VARNING: Filen 'basic-security.sh' saknas.
+Thu, Dec 11, 2025 10:10:29 AM - Användaren 'nikko' finns.
+Thu, Dec 11, 2025 10:10:29 AM - Kontroller slutförda.
+Thu, Dec 11, 2025 10:19:46 AM - Filen 'basic-security-check.sh' finns.
+-rwxr-xr-x 1 nikko 197609 660 Dec 11 10:04 basic-security-check.sh
+Thu, Dec 11, 2025 10:19:50 AM - Användaren 'nikko' finns.
+Thu, Dec 11, 2025 10:19:50 AM - Kontroller slutförda.
+12/11/2025 10:21:21 - Filen 'basic-security-check.ps1' finns.
+Archive
+
+12/11/2025 10:21:29 - Användaren 'nikko' finns.
+12/11/2025 10:21:29 - Kontroller slutförda.
+12/11/2025 10:24:59 - Filen 'basic-security-check.ps1' finns.
+Archive
+
+12/11/2025 10:25:04 - Användaren 'nikko' finns.
+12/11/2025 10:25:04 - Kontroller slutförda.
