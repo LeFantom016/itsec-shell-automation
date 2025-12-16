@@ -1,0 +1,17 @@
+Tue, Dec 16, 2025  3:29:08 PM - Misslyckat inloggningsförsök: User anna failed login attempt
+Tue, Dec 16, 2025  3:29:08 PM - Error hittad: System error: disk not found
+Tue, Dec 16, 2025  3:29:08 PM - Obehörigt försök: Unauthorized access attempt from 10.0.0.55
+Tue, Dec 16, 2025  3:29:08 PM - Misslyckat inloggningsförsök: User anna failed login attempt
+Tue, Dec 16, 2025  3:29:08 PM - ANALYS KLAR
+Tue, Dec 16, 2025  3:29:08 PM - Antal misslyckade inloggningar: 2
+Tue, Dec 16, 2025  3:29:08 PM - Antal errors: 1
+Tue, Dec 16, 2025  3:29:08 PM - Antal obehöriga försök: 1
+2025-12-16 15:32:21 - Misslyckat inloggningsförsök: User anna failed login attempt
+2025-12-16 15:32:21 - Error hittad: System error: disk not found
+2025-12-16 15:32:21 - Obehörigt försök: Unauthorized access attempt from 10.0.0.55
+2025-12-16 15:32:21 - Misslyckat inloggningsförsök: User anna failed login attempt
+2025-12-16 15:32:21 - Error hittad: Error reading configuration file
+2025-12-16 15:32:21 - ANALYS KLAR
+2025-12-16 15:32:21 - Antal misslyckade inloggningar: 2
+2025-12-16 15:32:21 - Antal errors: 2
+2025-12-16 15:32:21 - Antal obehöriga försök: 1
